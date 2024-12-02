@@ -1,6 +1,6 @@
 # Laravel Event Calendar Application
 
-This Laravel application allows users to add, edit, and manage events on a calendar. The calendar is implemented using [FullCalendar](https://fullcalendar.io/)
+This Laravel application allows users to add, edit, and manage events on a calendar. The calendar is implemented using FullCalendar
 
 ## Features
 
