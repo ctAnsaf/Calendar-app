@@ -25,7 +25,7 @@ Follow these steps to set up the application on your local environment:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/event-calendar-app.git
+    git clone https://github.com/ctAnsaf/Calendar-app
     cd event-calendar-app
     ```
 
